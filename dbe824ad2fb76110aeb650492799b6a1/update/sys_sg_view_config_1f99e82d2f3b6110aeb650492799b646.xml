@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description/>
+        <name>User Detail Screen View Config</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-02 16:53:31</sys_created_on>
+        <sys_id>1f99e82d2f3b6110aeb650492799b646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Detail Screen View Config</sys_name>
+        <sys_package display_value="StarfinderNow" source="x_144118_starfind">dbe824ad2fb76110aeb650492799b6a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StarfinderNow">dbe824ad2fb76110aeb650492799b6a1</sys_scope>
+        <sys_update_name>sys_sg_view_config_1f99e82d2f3b6110aeb650492799b646</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-02 16:53:31</sys_updated_on>
+        <table>sys_user</table>
+        <template display_value="Template 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=1f99e82d2f3b6110aeb650492799b646"/>
+</record_update>

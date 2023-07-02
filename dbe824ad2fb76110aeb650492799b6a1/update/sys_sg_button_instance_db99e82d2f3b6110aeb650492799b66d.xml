@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (User)">1b99e82d2f3b6110aeb650492799b66b</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (User)</name>
+        <order/>
+        <parent>1399e82d2f3b6110aeb650492799b669</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-02 16:53:32</sys_created_on>
+        <sys_id>db99e82d2f3b6110aeb650492799b66d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (User)</sys_name>
+        <sys_package display_value="StarfinderNow" source="x_144118_starfind">dbe824ad2fb76110aeb650492799b6a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StarfinderNow">dbe824ad2fb76110aeb650492799b6a1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_db99e82d2f3b6110aeb650492799b66d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-02 16:53:32</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=db99e82d2f3b6110aeb650492799b66d"/>
+</record_update>
